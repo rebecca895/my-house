@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/my-house/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/my-house/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/my-house/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"匠香图坊 | AI 手工香产品图生成平台"}],["$","meta","1",{"name":"description","content":"面向手工制香匠人、香道传承人、香料品牌的 AI 产品图与工艺展示图生成平台。匠心造香，AI 绘境。"}],["$","link","2",{"rel":"icon","href":"/my-house/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ti_Y--GOLwX1sHipS7Luh"}
